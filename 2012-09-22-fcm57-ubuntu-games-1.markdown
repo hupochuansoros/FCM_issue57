@@ -20,7 +20,7 @@ Written by Riku Järvinen
 
 This month we take a look at a game that also has potential as a science teaching tool in comprehensive schools. Some time ago, I grabbed Humble Bundle 3, including Crayon Physics Deluxe - a thoroughly planned collection of physics puzzles you solve by drawing different shapes. As I’m also a student of physics, I was intrigued to test the realism of the game. It turned out to be pretty much what I expected -- and more. Plus, it was created by the Finnish game developer Petri Purho of Kloonigames.
 
-这个月我们看到了一款十分有潜力成为综合学校教学工具的游戏。前一段时间，我攫取到了独立游戏软件合集Humble Bundle的第三弹，其中包括蜡笔物理学豪华版——一个通过描绘事物来解决物理迷题的收集类游戏。因为我也是一名物理系的学生，所以我对游戏的真实性测试很感兴趣。测试结果和我预期的一样好————甚至更好。再补充下，它是由芬兰游戏开发商Kloonigames的Petri Purho所创。
+这个月我们看到了一款十分有潜力成为综合学校教学工具的游戏。前一段时间，我获取到了独立游戏软件合集Humble Bundle的第三弹，其中包括蜡笔物理学豪华版——一个通过描绘事物来解决物理迷题的收集类游戏。因为我也是一名物理系的学生，所以我对游戏的真实性测试很感兴趣。测试结果和我预期的一样好————甚至更好。再补充下，它是由芬兰游戏开发商Kloonigames的Petri Purho所创。
 
 ## Installation & Overview
 
@@ -34,7 +34,7 @@ There was no trouble getting the game going, I just downloaded the .deb file and
 
 The minimum requirements, at 1 GHz, 512 MB RAM, and 128 MB graphics RAM, are easily met (if in doubt, you can download the demo at [http://www.crayonphysics.com](http://www.crayonphysics.com) to test your specs). When you start Crayon, you are asked to register for additional features but this is not obligatory.
 
-最低配置要求，处理器主频1GHz，512MB内存，以及128MB显存，很容易达到要求(如果不信的话，你可以在[http://www.crayonphysics.com](http://www.crayonphysics.com)下载试玩版，来测试你电脑的规格)。当你开始游戏，你会被询问是否进行注册以获得附加功能，但这并不是强制性的。
+最低配置要求，处理器主频1GHz，512MB内存，以及128MB显存，很容易达到要求(如果不确定的话，你可以在[http://www.crayonphysics.com](http://www.crayonphysics.com)下载试玩版，来测试你电脑的规格)。当你开始游戏，你会被询问是否进行注册以获得附加功能，但这并不是强制性的。
 
 Because of the really calm music and bright-coloured graphics, my first impression was that this is probably a game for children or something. The levels seemed very easy, and I hacked through forty of them before realizing I had completely missed the point. Crayon is about elegance. Not only is it enough to find a solution to a problem: it must be “a good one”, i.e. meaning not to draw unnecessary objects. To complete each level perfectly, you have to come up with three different ones: elegant, old school, and awesome. The awesome solution is something you can choose freely among the ones you have developed to solve the problem. 
 
